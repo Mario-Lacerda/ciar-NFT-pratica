@@ -1,4 +1,4 @@
-Projeto Completo e Abrangente para Criação de NFT
+Projeto para Criação de NFT
 
 Introdução
 
